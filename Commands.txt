@@ -1,0 +1,9 @@
+Practice git commands
+Practice Ansible playbooks in yaml
+Practice Jenkins Declarative pipelines
+Practice Docker file with commands
+Practice Kuerbnetes configiles in yaml
+Practice cloudformation templates in yaml
+Practice terrafrom
+
+
