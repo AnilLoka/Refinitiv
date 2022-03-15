@@ -1,0 +1,35 @@
+Ansible
+====
+V.V.Imp- Autmation with scripting - Narendra videos are good
+and
+Valaxy are good
+
+Topics
+===
+Different locations of ansible.cfg
+https://www.youtube.com/watch?v=QumkfsGw24Y&t=223s
+
+Dynamic inventory - Narendra
+Ansible config file? valaxy
+https://www.youtube.com/watch?v=oe22JIQ47PQ
+
+How to write your first Ansible playbook | Write Simple Ansible Playbook | Learn Ansible Basics
+https://www.youtube.com/watch?v=BeYUQaFS-vg&t=187s
+
+Projects
+====
+
+Simple DevOps project with Ansible | java,Tomcatinstallation and configuration using playbook
+https://www.youtube.com/watch?v=shiVRPVcjB8&t=219s
+
+https://www.youtube.com/watch?v=PRpEbFZi7nI
+How to run Ansible playbook from Jenkins pipeline job | Ansible Jenkins Integration
+
+Git,Jenkins and Ansible
+https://www.youtube.com/watch?v=nE4b9mW2ym0&t=726s
+
+CI/CD Pripeline Jenkins/Ansible/Docker/Kubernetes
+https://www.youtube.com/watch?v=8D46Pgbz0gg&t=7s
+
+DevOps CI/CD Jenkins Pipeline, Ansible & Docker
+https://www.youtube.com/watch?v=13FpCxCClLY&t=10s

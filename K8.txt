@@ -1,0 +1,27 @@
+Why kubernetes?
+Components of K8s
+Secrets and Its Secureway?
+K8s file extension?
+Difference between k8s and docker swarm.
+Horizontal pod autoscaling and Vertical pod autoscaling
+What is mini cube in kubernetes?
+What are K8s?
+What is a node in Kubernetes?
+What does the node status contain?
+What process runs on Kubernetes Master Node?
+What is the job of the kube-scheduler?
+What is a cluster of containers in Kubernetes?
+What is namespace? What are the default namspace ate getting created? 
+What is a Namespace in Kubernetes?
+What is PVC? (Persitent Volume cliam)
+Name the initial namespaces from which Kubernetes starts?
+What are the different services within Kubernetes?
+What is ClusterIP?
+What is NodePort?
+What is Kube-proxy?
+How can you get a static IP for a Kubernetes load balancer?
+Node Vs Master?
+How to connect from node to master?
+ETCD? Its Role?
+What is the “Master”? -It's the boss of the cluster
+Define OpenShift- Same as EKS
